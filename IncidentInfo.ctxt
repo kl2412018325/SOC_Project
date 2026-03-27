@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IncidentInfo
+comment1.params=id\ type\ severity\ date\ time\ cost
+comment1.target=IncidentInfo(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
